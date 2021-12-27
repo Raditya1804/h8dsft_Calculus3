@@ -1,1 +1,1 @@
-# h8dsft_Calculus3
+- Carilah gradient dari sebuah fungsi: $3x+4y=5$
